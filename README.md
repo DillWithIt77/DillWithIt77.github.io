@@ -11,6 +11,6 @@ My name is Angela Morrison, and I am currently a second year PhD student at the 
 
 ## Projects (starting with the most recent)
 - [The Circuit Less Travelled: A Path of Gentrification Through Colorado Neighborhoods](https://github.com/wgrewe/D2P-Optimization-Fall-2021)
-- [Proving *e* is a Chicken Nugget: A Mathematical Look at the Free/Reduced Lunch Program in Colorado]()
+- [Proving *e* is a Chicken Nugget: A Mathematical Look at the Free/Reduced Lunch Program in Colorado](https://github.com/DillWithIt77/Free_Reduced_Lucnhes_Project)
 - [Trees Get Degrees: Using Decision Trees to Determine Important Features for College Acceptance](https://github.com/DillWithIt77/D2P-Spring-2021)
 - [Designing Fair Voting Districts](https://github.com/DillWithIt77/D2P_Voting)
