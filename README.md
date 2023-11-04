@@ -10,7 +10,7 @@ Email: [my email](mailto:angela.morrison@ucdenver.edu)
 My name is Angela Morrison, and I am currently a second year PhD student at the University of Colorado Denver working on reserach in Operations Research/Optimization. My expected graudated date is May of 2025, and I hope to go into the data science or data analytics industry upon completiong od my degree. If you would like to see more about specific projects I have been working on while in my PhD program, feel free to explore my page on the optimization wiki found [here](http://math.ucdenver.edu/~sborgwardt/wiki/index.php/Angela_Morrison).
 
 ## Projects (starting with the most recent)
--[A Wheelie Good Time: Safe Biking in Denver](https://github.com/DillWithIt77/D2P_Spring_2022)
+- [A Wheelie Good Time: Safe Biking in Denver](https://github.com/DillWithIt77/D2P_Spring_2022)
 - [The Circuit Less Travelled: A Path of Gentrification Through Colorado Neighborhoods](https://github.com/wgrewe/D2P-Optimization-Fall-2021)
 - [Proving *e* is a Chicken Nugget: A Mathematical Look at the Free/Reduced Lunch Program in Colorado](https://github.com/DillWithIt77/Free_Reduced_Lucnhes_Project)
 - [Trees Get Degrees: Using Decision Trees to Determine Important Features for College Acceptance](https://github.com/DillWithIt77/D2P-Spring-2021)
